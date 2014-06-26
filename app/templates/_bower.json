@@ -1,6 +1,13 @@
 {
   "name": "package",
   "version": "0.0.0",
-  "dependencies": {}
+  "dependencies": {
+  	"jquery": "latest",
+  	"modernizr": "latest",
+  	"ember":"latest",
+  	"ember-data":"latest"
+  }
 }
+
+
 
