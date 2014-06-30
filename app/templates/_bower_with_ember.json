@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "dependencies": {
   	"jquery": "latest",
-  	"modernizr": "latest"
+  	"modernizr": "latest",
+  	"ember":"latest",
+  	"ember-data":"latest"
   }
 }
 
